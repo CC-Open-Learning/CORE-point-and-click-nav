@@ -1,0 +1,17 @@
+{
+    "name": "VARLab.Navigation.PointClick",
+    "rootNamespace": "VARLab.Navigation.PointClick",
+    "references": [
+        "GUID:366c044d9e643a7499e9121b0e9b6952",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

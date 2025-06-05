@@ -1,0 +1,16 @@
+{
+    "name": "PointClickSample",
+    "rootNamespace": "VARLab.Navigation.Samples",
+    "references": [
+        "GUID:4d2d7efd29676a8439ff643055fc6dd5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "VARLab.Navigation.PointClick.Editor",
+    "rootNamespace": "VARLab.Navigation.PointClick",
+    "references": [
+        "GUID:4d2d7efd29676a8439ff643055fc6dd5",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
